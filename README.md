@@ -1,6 +1,6 @@
 ### Jackson Kojo Osei
 
-CTO at **Nobicel Technology** (Ghana) and **iXED Networks** (UK). I build the software institutions run on — payroll across two countries, a national criminal justice system, health records, land registries — and I still write the code.
+CTO and director at **[Nobicel Ltd](https://www.nobicel.com)** (Ghana), and CTO at **iXED Networks** (UK). I build the software institutions run on — payroll across two countries, a national criminal justice system, health records, land registries — and I still write the code.
 
 Based in Accra. I build for the ugly path: one bar of signal, a shared phone, a clerk with forty people in the queue.
 
