@@ -18,4 +18,4 @@ Based in Accra. I build for the ugly path: one bar of signal, a shared phone, a 
 
 Most of my production work is for clients and isn't public. Happy to walk through any of it.
 
-[LinkedIn](https://www.linkedin.com/in/jackson-kojo-osei-740846189) · jacksonkojoosei@nobicel.com
+[Website](https://jacksonosei.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jackson-kojo-osei-740846189) · jacksonkojoosei@nobicel.com
