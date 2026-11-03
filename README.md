@@ -8,7 +8,7 @@ Based in Accra. I build for the ugly path: one bar of signal, a shared phone, a 
 
 #### Building in public: the lab
 
-Seven open-source APIs I'm building now, around payments, AI you can measure, and African markets. Each has a page on [jacksonkojoosei.com/projects](https://jacksonkojoosei.com/projects).
+Eight open-source APIs I'm building now, around payments, AI you can measure, and African markets. Each has a page on [jacksonkojoosei.com/projects](https://jacksonkojoosei.com/projects).
 
 | Project | What it does |
 | --- | --- |
@@ -17,6 +17,7 @@ Seven open-source APIs I'm building now, around payments, AI you can measure, an
 | [ghana-payroll-api](https://github.com/Jacksonoseikojo1122/ghana-payroll-api) | PAYE, SSNIT and net pay for Ghana, exact and explained |
 | [ussd-runtime](https://github.com/Jacksonoseikojo1122/ussd-runtime) | Runs USSD Flow Studio menus fast enough for a real phone session (Go) |
 | [momo-one-api](https://github.com/Jacksonoseikojo1122/momo-one-api) | One API across MTN MoMo, Telecel Cash, AirtelTigo Money and M-Pesa |
+| [spend-guard](https://github.com/Jacksonoseikojo1122/spend-guard) | Spending limits and human approval for AI agents that pay by mobile money (MCP server) |
 | [meter](https://github.com/Jacksonoseikojo1122/meter) | AI and API usage metering into Stripe usage billing |
 | [guardrails](https://github.com/Jacksonoseikojo1122/guardrails) | Check AI output before users see it, and catch regressions |
 
